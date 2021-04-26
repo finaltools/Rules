@@ -1,0 +1,4 @@
+# Netflix
+DOMAIN-SUFFIX,netflix.com,Netflix,force-remote-dns
+DOMAIN-SUFFIX,nflxext.com,Netflix,force-remote-dns
+DOMAIN-SUFFIX,nflxso.net,Netflix,force-remote-dns
